@@ -50,7 +50,7 @@ Questo progetto modella in TypeScript le interazioni tra:
 
 ## 🔗 Link utili
 
-- 🖥️ **CodePen** — [Visualizza il codice](https://codepen.io/simonebesutti23/pen/019d91eb-0da1-7dfe-978e-61dad8d739f4))
+- 🖥️ **CodePen** — [Visualizza il codice](https://codepen.io/editor/simonebesutti23/pen/019d9362-4b77-709c-9964-83eba604f80e)
 
 ---
 
